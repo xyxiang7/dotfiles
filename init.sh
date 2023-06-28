@@ -9,4 +9,4 @@ sudo apt install llvm-9 clang-9 -y
 
 git config --global user.name "xyxiang7"
 git config --global user.email "xyxiang7@gmail.com"
-sudo timedatectl set-timezone Asia/Shanghai
+sudo timedatectl set-timezone America/New_York
